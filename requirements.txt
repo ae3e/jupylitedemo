@@ -18,6 +18,9 @@ jupyterlab-language-pack-fr-FR
 # Open from URL
 jupyterlab-open-url-parameter
 
+# Access local files from the browser (Chromium-based browsers only)
+jupyterlab-filesystem-access
+
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3.3.0,<4
 # JupyterLab: Geojson file renderer (optional)
